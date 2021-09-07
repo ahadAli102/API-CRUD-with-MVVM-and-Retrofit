@@ -19,6 +19,9 @@
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent" />
 
+
+
+
     <View
         android:background="#A1A1A1"
         android:id="@+id/view"
